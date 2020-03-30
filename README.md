@@ -80,3 +80,5 @@ stable release.
 
 If you're a contributor, make sure you're testing and playing on `develop`.
 That's where all the magic is happening (and where we hope bugs stop).
+
+[![Run on Repl.it](https://repl.it/badge/github/AIDungeon/AIDungeon)](https://repl.it/github/AIDungeon/AIDungeon)
